@@ -1,0 +1,5 @@
+Dear reviewers, thank you for your thoughtful and constructive feedback. We have carefully addressed the majority of comments and summarized our key updates and findings in the one-page response. Because of the rebuttal page limit, we were unable to include all additional experiments and analyses we conducted during the rebuttal period; we will incorporate these results into the revised manuscript and appendix, where we can provide complete and detailed responses to every question and concern raised.
+
+To support transparency and reproducibility, we have released the full implementation of our method along with all reviewer-suggested baselines. We also fixed random seeds throughout our experiments to ensure results are consistent and reproducible.
+
+We hope these clarifications and added evidence resolve the main concerns about the paper’s validity and contribution. We would greatly appreciate it if you could consider updating your assessment in light of the strengthened experimental support and our detailed responses 😄.
